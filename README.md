@@ -1,4 +1,5 @@
 # marketing_costs_analysis
+A study project that involves the analysis of marketing costs for a mobile app.
 
 # Описание проекта
 Проектная работа связана с анализом привлечения клиентов для развлекательного приложения Procrastinate Pro+.
